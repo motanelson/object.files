@@ -1,2 +1,2 @@
-new basic  language scriplts
+game templete id basic structur
 
